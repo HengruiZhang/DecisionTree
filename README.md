@@ -1,4 +1,3 @@
-Name: Hengrui Zhang
 The default code in my howework is using 1000 features, 10 depth and minimum 10 trees.
 For analysis part, I basically add the crossvalidation part (it's in the code) and change all these numbers 
 above. If you run the original code for 2000 examples, the zero-one loss you will get is
